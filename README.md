@@ -8,7 +8,7 @@ The client sends a message to the server and the server broadcast this message b
 - Fork this project
 - Right now it is only showing the last message. We need it to list all the messages sent in a session. It could be a list `ul > li`.
 - Add the date and time for each message.
-- Add a validation, don't let the user type send if there nothing to be sent.
+- Add a validation, don't let the user hit send if there nothing to be sent.
 - The current implementation it is only broadcasting the message to the sender, make it broadcast the message to all the users that have the app opened.
 - Make it looks like chat app.
 
