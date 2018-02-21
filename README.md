@@ -14,6 +14,7 @@ The client sends a message to the server and the server broadcast this message b
 
 #### Plus:
 - Allow the users to have a nickname.
+- Make it pretty
 
 ## Running
 
