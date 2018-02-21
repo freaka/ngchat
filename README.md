@@ -4,6 +4,8 @@ This is a simple app that uses socket io + angularjs v1.2.32.
 
 The client sends a message to the server and the server broadcast this message back.
 
+![app](http://g.recordit.co/2hAmZVsMR7.gif)
+
 ### TODO:
 - Fork this project
 - Right now it is only showing the last message. We need it to list all the messages sent in a session. It could be a list `ul > li`.
