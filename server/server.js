@@ -181,7 +181,7 @@ io.on('connection', function (socket) {
 
 		} else {
 			io.in( room ).emit('message received', {
-				from		: _userSent,
+				from		: nickNames[ _userSent ],
 				message		: _message,
 				timestamp	: _timestamp,
 				action		: _action,
